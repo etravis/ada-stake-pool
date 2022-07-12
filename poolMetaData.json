@@ -3,5 +3,5 @@
 "description": "Welcome to the ADAPerks Stake Pool",
 "ticker": "PERK1",
 "homepage": "https://adaperks.com",
-"extended": "https://raw.githubusercontent.com/etravis/ada-stake-pool/main/extended-meta.json 2a64e6de8dae08539e47f881cf178239"
+"extended": "https://raw.githubusercontent.com/etravis/ada-stake-pool/main/extended-meta.json"
 }
