@@ -23,9 +23,9 @@
             "vat_id": "GB123456789"
         },
         "about": {
-            "me": "...",
+            "me": ".Test Text ME",
             "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "company": "Test Text COMPANY"
         }
     }
 }
