@@ -11,16 +11,17 @@
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
+            "instagram_handle": "stakeadaperks",
             "github_handle": ""
 
         },
         "company": {
             "name": "ADAPerks - Cardono Stake Pool",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
             "me": ".Test Text ME",
