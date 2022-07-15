@@ -16,7 +16,7 @@
 
         },
         "company": {
-            "name": "ADAPerks - Cardono Stake Pool",
+            "name": "[PERK1] ADAPerks - Cardono Stake Pool",
             "addr": "",
             "city": "",
             "country": "",
@@ -25,7 +25,12 @@
         },
         "about": {
             "me": ".Test Text ME",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "server": "Cloud based infrastructure (non-AWS) situated and administered within the United States. Geographically distributed, multi-cloud relays (2) and core for enhanced security and redundancy. 
+
+	•	100 Gbit/s Uplink
+	•	Redundant Power Supply
+	•	Diesel Power Generator + UPS
+	•	Fire Detection and Suppression Systems",
             "company": "Test Text COMPANY"
         }
     }
