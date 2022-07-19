@@ -1,7 +1,7 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_icon_64x64": "https://adaperks.com/wp-content/uploads/2022/07/cropped-ADAPerkslogoNSSmall.png",
         "url_png_logo": "https://adaperks.com/wp-content/uploads/2022/07/cropped-ADAPerkslogoNSSmall.png",
         "location": "London, England",
         "social": {
